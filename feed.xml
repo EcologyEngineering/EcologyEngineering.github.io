@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>ecologyengineering</title>
-    <link href="https://ecologyengineering.github.io/ecologyengineering/feed.xml" rel="self" />
-    <link href="https://ecologyengineering.github.io/ecologyengineering" />
+    <link href="https://ecologyengineering.github.io/ecologyengineering.github.io/feed.xml" rel="self" />
+    <link href="https://ecologyengineering.github.io/ecologyengineering.github.io" />
     <updated>2024-10-01T17:32:19+02:00</updated>
     <author>
         <name>Linus Lejdfelt</name>
     </author>
-    <id>https://ecologyengineering.github.io/ecologyengineering</id>
+    <id>https://ecologyengineering.github.io/ecologyengineering.github.io</id>
 
     <entry>
         <title>The beginning of the middle</title>
         <author>
             <name>Linus Lejdfelt</name>
         </author>
-        <link href="https://ecologyengineering.github.io/ecologyengineering/the-beginning-of-the-middle.html"/>
-        <id>https://ecologyengineering.github.io/ecologyengineering/the-beginning-of-the-middle.html</id>
+        <link href="https://ecologyengineering.github.io/ecologyengineering.github.io/the-beginning-of-the-middle.html"/>
+        <id>https://ecologyengineering.github.io/ecologyengineering.github.io/the-beginning-of-the-middle.html</id>
 
         <updated>2024-10-01T17:32:19+02:00</updated>
             <summary>
