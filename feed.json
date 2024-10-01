@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ecologyengineering",
+    "description": "",
+    "home_page_url": "https://ecologyengineering.github.io/home",
+    "feed_url": "https://ecologyengineering.github.io/home/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Linus Lejdfelt"
+    },
+    "items": [
+        {
+            "id": "https://ecologyengineering.github.io/home/the-beginning-of-the-middle.html",
+            "url": "https://ecologyengineering.github.io/home/the-beginning-of-the-middle.html",
+            "title": "The beginning of the middle",
+            "summary": "This is not the end, its not even the beginning of the end. But it is perhaps the end of the beginning.&nbsp;",
+            "content_html": "\n  <p>\n    This is not the end, its not even the beginning of the end. But it is perhaps the end of the beginning.&nbsp;\n  </p>",
+            "author": {
+                "name": "Linus Lejdfelt"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-01T17:32:19+02:00",
+            "date_modified": "2024-10-01T17:32:19+02:00"
+        }
+    ]
+}
